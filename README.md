@@ -45,7 +45,7 @@
 ### GAN
   * [Keras GAN](https://github.com/eriklindernoren/Keras-GAN)
   * [cycleGAN TensorFlow](https://github.com/vanhuyz/CycleGAN-TensorFlow)
-  * [cycleGAN)[https://github.com/junyanz/CycleGAN]
+  * [cycleGAN](https://github.com/junyanz/CycleGAN)
   * [StackGAN](https://github.com/hanzhanggit/StackGAN)
   * [Improved Training of Wasserstein GANs](https://github.com/igul222/improved_wgan_training)
   * [PyTorch Implementation of StarGAN](https://github.com/yunjey/stargan)
