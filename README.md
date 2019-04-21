@@ -41,9 +41,17 @@
   * [A general-purpose encoder-decoder framework for Tensorflow(Seq2seq)](https://github.com/google/seq2seq) 
   * [Fast Network Embedding Enhancement via High Order Proximity Approximation(NEU)](https://github.com/thunlp/NEU)
   * [Four styles of encoder decoder model by Python, Theano, Keras and Seq2Seq](https://github.com/jacoxu/encoder_decoder)
+  * [Google AI 2018 BERT pytorch implementation](https://github.com/codertimo/BERT-pytorch)
+  * [Open Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py)
+  * [Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
+  * [RNN benchmarks of pytorch, tensorflow and theano](https://github.com/stefbraun/rnn_benchmarks)
+  * [Deep Reinforcement Learning For Sequence to Sequence Models](https://github.com/yaserkl/RLSeq2Seq)
+  * [Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.](https://github.com/hunkim/word-rnn-tensorflow)
   
 ### GAN
   * [Keras GAN](https://github.com/eriklindernoren/Keras-GAN)
+  * [Generative Adversarial Networks](https://github.com/goodfeli/adversarial)
+  * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/tkarras/progressive_growing_of_gans)
   * [cycleGAN TensorFlow](https://github.com/vanhuyz/CycleGAN-TensorFlow)
   * [cycleGAN](https://github.com/junyanz/CycleGAN)
   * [StackGAN](https://github.com/hanzhanggit/StackGAN)
