@@ -1,2 +1,61 @@
 # Open-Source-Code
-主要是论文中代码的开源，以及一些著名网络的开源代码
+主要是论文中的一些网络结构代码开源
+
+
+## 论文代码开源
+  * [Sequence modeling benchmarks and temporal convolutional networks(TCN)](https://github.com/locuslab/TCN)
+  * [glow](https://github.com/openai/glow)
+  * [NCRF++, an Open-source Neural Sequence Labeling Toolkit. It includes character LSTM/CNN, word LSTM/CNN and softmax/CRF components](https://github.com/jiesutd/NCRFpp)
+  * [The Natural Language Decathlon: A Multitask Challenge for NLP(decaNLP)](https://github.com/salesforce/decaNLP)
+  * [LSTNet](https://github.com/laiguokun/LSTNet)
+  * [Convolution_LSTM_PyTorch](https://github.com/automan000/Convolution_LSTM_PyTorch)
+  * [Neural Attentive Item Similarity Model for Recommendation](https://github.com/AaronHeee/Neural-Attentive-Item-Similarity-Model)
+  * [Attention is All You Need](https://github.com/bojone/attention)
+  * [Attention Is All You Need](https://github.com/Kyubyong/transformer)
+  * [TensorFlow implementation of Independently Recurrent Neural Networks(INdRNN)](https://github.com/batzner/indrnn)
+  * [nlstm](https://github.com/hannw/nlstm)
+  * [TransNet: Translation-Based Network Representation Learning for Social Relation Extraction](https://github.com/thunlp/TransNet)
+  * [DeepWalk - Deep Learning for Graphs](https://github.com/phanein/deepwalk)
+  * [Max-margin DeepWalk](https://github.com/thunlp/MMDW)
+  * [LINE: Large-scale information network embedding](https://github.com/tangjianpku/LINE)
+  * [TensorFlow (Python API) implementation of Neural Style](https://github.com/cysmith/neural-style-tf)
+  * [ResNet](https://github.com/tornadomeet/ResNet)
+  * [A Capsule Implement with Pure Keras](https://github.com/bojone/Capsule)
+  * [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/mdeff/cnn_graph)
+  * [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+  * [CANE: Context-Aware Network  Embedding for Relation Modeling](https://github.com/thunlp/CANE)
+  * [GloVe model for distributed word representation](https://github.com/stanfordnlp/GloVe)
+  * [Deep Learning for Spatio-Temporal Data(DeepST)](https://github.com/lucktroy/DeepST)
+  * [Network Representation Learning with Rich Text Information(TADW)](https://github.com/thunlp/TADW)
+  * [Efficient Vector Representation for Documents through Corruption(Doc2Vec)](https://github.com/mchen24/iclr2017)
+  * [GCN(Implementation of Graph Convolutional Networks in TensorFlow)](https://github.com/tkipf/gcn)
+  * [RNN(LSTM, GRU) in Theano with mini-batch training; character-level language models in Theano](https://github.com/lipiji/rnn-theano)
+  * [TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
+  * [Implementation of Diffusion Convolutional Recurrent Neural Network(DCRNN)](https://github.com/liyaguang/DCRNN)
+  * [Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets) 
+  * [node2vec](https://github.com/aditya-grover/node2vec)
+  * [Neural Network for generating structured queries from natural language(SQLNet).](https://github.com/xiaojunxu/SQLNet)
+  * [graph2vec: Learning distributed representations of graphs](https://github.com/MLDroid/graph2vec_tf)
+  * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)
+  * [An implementation of Mikolov's word2vec in Python using Theano and Lasagne.](https://github.com/enewe101/word2vec)
+  * [A general-purpose encoder-decoder framework for Tensorflow(Seq2seq)](https://github.com/google/seq2seq) 
+  * [Fast Network Embedding Enhancement via High Order Proximity Approximation(NEU)](https://github.com/thunlp/NEU)
+  * [Four styles of encoder decoder model by Python, Theano, Keras and Seq2Seq](https://github.com/jacoxu/encoder_decoder)
+  
+### GAN
+  * [Keras GAN](https://github.com/eriklindernoren/Keras-GAN)
+  * [cycleGAN TensorFlow](https://github.com/vanhuyz/CycleGAN-TensorFlow)
+  * [cycleGAN)[https://github.com/junyanz/CycleGAN]
+  * [StackGAN](https://github.com/hanzhanggit/StackGAN)
+  * [Improved Training of Wasserstein GANs](https://github.com/igul222/improved_wgan_training)
+  * [PyTorch Implementation of StarGAN](https://github.com/yunjey/stargan)
+  * [WassersteinGAN](https://github.com/martinarjovsky/WassersteinGAN)
+  * [Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN](https://github.com/YadiraF/GAN)
+  * [Deep Convolutional Generative Adversarial Networks(DCGAN)](https://github.com/carpedm20/DCGAN-tensorflow)
+  * [Implementation of Sequence Generative Adversarial Nets with Policy Gradient](https://github.com/LantaoYu/SeqGAN)
+  * [How to Train a GAN?](https://github.com/soumith/ganhacks)
+  * [compare_gan](https://github.com/google/compare_gan)
+  * [All About the GANs](https://github.com/hollobit/All-About-the-GAN)
+  * [A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
+  
+  
