@@ -16,6 +16,8 @@
   * [Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.](https://github.com/clips/pattern)
   * [SentiBridge: A Knowledge Base for Entity-Sentiment Representation](https://github.com/rainarch/SentiBridge)
   * [PyTorch tutorials demonstrating modern techniques with readable code](https://github.com/spro/practical-pytorch)
+  * [Efficient, transparent deep learning in hundreds of lines of code.](https://github.com/yechengxi/LightNet)
+  * [This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed.](https://github.com/PaddlePaddle/paddle-mobile)
   
  
   
@@ -25,6 +27,7 @@
   * [A little word cloud generator in Python](https://github.com/amueller/word_cloud)
   * [R-NET implementation in Keras.](https://github.com/YerevaNN/R-NET-in-Keras)
   * [Make huge neural nets fit in memory](https://github.com/openai/gradient-checkpointing)
+  * [Convolutional and LSTM networks to classify human activity](https://github.com/healthDataScience/deep-learning-HAR)
   *
 
 ## 论文代码开源
@@ -79,6 +82,7 @@
   * [Countering Adversarial Image using Input Transformations.](https://github.com/facebookarchive/adversarial_image_defenses)
   * [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
   * [Dynamic Network Embedding by Modeling Triadic Closure Process](https://github.com/luckiezhou/DynamicTriad)
+  * [(PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks).](https://github.com/mnqu/PTE)
   
   
 ## GAN
@@ -98,6 +102,7 @@
   * [compare_gan](https://github.com/google/compare_gan)
   * [All About the GANs](https://github.com/hollobit/All-About-the-GAN)
   * [A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
+  * [The classical papers and codes about generative adversarial nets](https://github.com/zhangqianhui/AdversarialNetsPapers)
   
 ## Papers related
 
@@ -118,6 +123,7 @@
  * [Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.](https://github.com/orsinium/textdistance)
  * [Word Embedding Visual Inspector](https://github.com/ronxin/wevi)
  * [Bring data to life with SVG, Canvas and HTML](https://github.com/d3/d3)
+ * [JavaScript 3D library.](https://github.com/mrdoob/three.js)
  
 
 ## Public courses
