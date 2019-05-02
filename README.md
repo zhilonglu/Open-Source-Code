@@ -66,5 +66,14 @@
   * [All About the GANs](https://github.com/hollobit/All-About-the-GAN)
   * [A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
   
-## other resources
+## Other resources
   * [Papers with code. Sorted by stars. Updated weekly.](https://github.com/zziz/pwc)
+  
+## Papers related
+
+### Spatio Temporal Related
+ * [Spatio-temporal modeling 论文列表（主要是graph convolution相关)](https://github.com/Eilene/spatio-temporal-paper-list)
+ 
+### Related resources
+  * [Paper reading list in natural language processing, including dialogue system, text summarization, topic modeling, etc.](https://github.com/iwangjian/Paper-Reading)
+
