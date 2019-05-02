@@ -1,5 +1,5 @@
 # Open-Source-Code And Open Courses
-主要是论文代码开源，以及一些公开的库。同时也收录一些公开课程资料
+主要是论文代码开源，以及一些公开的库。同时也收录一些公开课程资料，以及一些小的project公开代码
 
 
 ## Project related code
@@ -13,11 +13,19 @@
   * [An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy](https://github.com/NifTK/NiftyNet)
   * [(Open Source) Computer Vision + Deep Learning + League of Legends](https://github.com/farzaa/DeepLeague)
   * [CakeChat: Emotional Generative Dialog System](https://github.com/lukalabs/cakechat)
+  * [Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.](https://github.com/clips/pattern)
+  * [SentiBridge: A Knowledge Base for Entity-Sentiment Representation](https://github.com/rainarch/SentiBridge)
+  * [PyTorch tutorials demonstrating modern techniques with readable code](https://github.com/spro/practical-pytorch)
   
+ 
   
 ## Simple implementations
   * [Simple implementation of mean shift clustering in python](https://github.com/mattnedrich/MeanShift_py)
   * [Chatbot in 200 lines of code using TensorLayer](https://github.com/tensorlayer/seq2seq-chatbot)
+  * [A little word cloud generator in Python](https://github.com/amueller/word_cloud)
+  * [R-NET implementation in Keras.](https://github.com/YerevaNN/R-NET-in-Keras)
+  * [Make huge neural nets fit in memory](https://github.com/openai/gradient-checkpointing)
+  *
 
 ## 论文代码开源
   * [Sequence modeling benchmarks and temporal convolutional networks(TCN)](https://github.com/locuslab/TCN)
@@ -70,6 +78,7 @@
   * [PointCNN](https://github.com/yangyanli/PointCNN)
   * [Countering Adversarial Image using Input Transformations.](https://github.com/facebookarchive/adversarial_image_defenses)
   * [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
+  * [Dynamic Network Embedding by Modeling Triadic Closure Process](https://github.com/luckiezhou/DynamicTriad)
   
   
 ## GAN
@@ -116,3 +125,7 @@
  * [中国科学技术大学计算机学院课程资源](https://github.com/ustcwpz/USTC-CS-Courses-Resource)
  * [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
  * [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+ * [Natural Language Processing in Action](https://github.com/totalgood/nlpia)
+ * [Code for Stanford CS224D: deep learning for natural language understanding](https://github.com/bogatyy/cs224d/)
+
+ 
