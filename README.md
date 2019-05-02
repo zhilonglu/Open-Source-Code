@@ -23,6 +23,8 @@
   * [A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。](https://github.com/littlecodersh/ItChat)
   * [Statsmodels: statistical modeling and econometrics in Python](https://github.com/statsmodels/statsmodels)
   * [TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
+  * [Real time face detection and recognition base  on opencv/tensorflow/mtcnn/facenet](https://github.com/BoragoCode/real_time_face_recognition)
+  * [A project with topic model implementations](https://github.com/balikasg/topicModelling)
   
  
   
@@ -30,12 +32,20 @@
   * [Simple implementation of mean shift clustering in python](https://github.com/mattnedrich/MeanShift_py)
   * [Chatbot in 200 lines of code using TensorLayer](https://github.com/tensorlayer/seq2seq-chatbot)
   * [A little word cloud generator in Python](https://github.com/amueller/word_cloud)
+  * [利用python制作中文词云](https://github.com/leisurelicht/WordCloud-CN)
   * [R-NET implementation in Keras.](https://github.com/YerevaNN/R-NET-in-Keras)
   * [Make huge neural nets fit in memory](https://github.com/openai/gradient-checkpointing)
   * [Convolutional and LSTM networks to classify human activity](https://github.com/healthDataScience/deep-learning-HAR)
   * [A Genetic Algorithm Framework in Python](https://github.com/PytLab/gaft)
   * [TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
   * [Preprocessed Python functions and docstrings for automated code documentation (code2doc) and automated code generation (doc2code) tasks.](https://github.com/EdinburghNLP/code-docstring-corpus)
+  * [Tiny Gradient Boosting Tree](https://github.com/wepe/tgboost)
+  * [提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系直接的坐标互转，也提供了解析高德地址的方法的python版本](https://github.com/wandergis/coordTransform_py)
+  * [Stock Prodiction by SVM & ARIMA](https://github.com/jerry81333/StockProdiction)
+  * [LSTM and GRU in JAVA](https://github.com/lipiji/JRNN)
+  * [Code Lib](https://github.com/wyh267/myCodeLib)
+  
+
 
 ## 论文代码开源
   * [Sequence modeling benchmarks and temporal convolutional networks(TCN)](https://github.com/locuslab/TCN)
@@ -91,6 +101,10 @@
   * [Dynamic Network Embedding by Modeling Triadic Closure Process](https://github.com/luckiezhou/DynamicTriad)
   * [(PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks).](https://github.com/mnqu/PTE)
   * [char-rnn (Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow)](https://github.com/sherjilozair/char-rnn-tensorflow)
+  * [Deep Learning Based Search and Recommendation System](https://github.com/meabhishekkumar/strata-conference-ca-2018)
+  * [DNGR Deep Neural Networks for Learning Graph Representations](https://github.com/ShelsonCao/DNGR)
+  * [Empirical Evaluation of Gated Recurrent Neural Networks](https://github.com/jych/librnn)
+ 
   
   
 ## GAN
@@ -132,12 +146,18 @@
  * [Word Embedding Visual Inspector](https://github.com/ronxin/wevi)
  * [Bring data to life with SVG, Canvas and HTML](https://github.com/d3/d3)
  * [JavaScript 3D library.](https://github.com/mrdoob/three.js)
+ * [Extension pack of ECharts providing 3d plots and globe visualization](https://github.com/pissang/echarts-x)
  * [JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
  * [Python Echarts Plotting Library](https://github.com/pyecharts/pyecharts)
  * [Faster Recurrent Neural Network Language Modeling Toolkit with Noise Contrastive Estimation and Hierarchical Softmax](https://github.com/yandex/faster-rnnlm)
  * [A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
  * [Deep learning with dynamic computation graphs in TensorFlow](https://github.com/tensorflow/fold)
  * [NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2.0.](https://github.com/shawnwun/NNDIAL)
+ * [Models built with TensorFlow](https://github.com/tensorflow/models)
+ * [Scriptable Headless WebKit](https://github.com/ariya/phantomjs)
+ * [DarkNet Convolutional Neural Networks](https://github.com/pjreddie/darknet)
+ * [Official Python client for the MonkeyLearn API. Build and consume machine learning models for language processing from your Python apps.](https://github.com/monkeylearn/monkeylearn-python)
+ * [Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).](https://github.com/Prinzhorn/skrollr)
  
 
 ## Public courses
@@ -154,3 +174,4 @@
  * [美国大学备考资料 How to apply US colleges](https://github.com/hot13399/FLY_US)
  * [Material Design icons by Google](https://github.com/google/material-design-icons)
  * [Codes related to activities on AV including articles, hackathons and discussions.](https://github.com/aarshayj/Analytics_Vidhya)
+ * [LaTeX files for the Deep Learning book notation](https://github.com/goodfeli/dlbook_notation)
