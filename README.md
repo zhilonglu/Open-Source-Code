@@ -18,6 +18,11 @@
   * [PyTorch tutorials demonstrating modern techniques with readable code](https://github.com/spro/practical-pytorch)
   * [Efficient, transparent deep learning in hundreds of lines of code.](https://github.com/yechengxi/LightNet)
   * [This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed.](https://github.com/PaddlePaddle/paddle-mobile)
+  * [Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet)
+  * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
+  * [A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。](https://github.com/littlecodersh/ItChat)
+  * [Statsmodels: statistical modeling and econometrics in Python](https://github.com/statsmodels/statsmodels)
+  * [TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
   
  
   
@@ -28,7 +33,9 @@
   * [R-NET implementation in Keras.](https://github.com/YerevaNN/R-NET-in-Keras)
   * [Make huge neural nets fit in memory](https://github.com/openai/gradient-checkpointing)
   * [Convolutional and LSTM networks to classify human activity](https://github.com/healthDataScience/deep-learning-HAR)
-  *
+  * [A Genetic Algorithm Framework in Python](https://github.com/PytLab/gaft)
+  * [TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
+  * [Preprocessed Python functions and docstrings for automated code documentation (code2doc) and automated code generation (doc2code) tasks.](https://github.com/EdinburghNLP/code-docstring-corpus)
 
 ## 论文代码开源
   * [Sequence modeling benchmarks and temporal convolutional networks(TCN)](https://github.com/locuslab/TCN)
@@ -83,6 +90,7 @@
   * [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
   * [Dynamic Network Embedding by Modeling Triadic Closure Process](https://github.com/luckiezhou/DynamicTriad)
   * [(PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks).](https://github.com/mnqu/PTE)
+  * [char-rnn (Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow)](https://github.com/sherjilozair/char-rnn-tensorflow)
   
   
 ## GAN
@@ -124,6 +132,12 @@
  * [Word Embedding Visual Inspector](https://github.com/ronxin/wevi)
  * [Bring data to life with SVG, Canvas and HTML](https://github.com/d3/d3)
  * [JavaScript 3D library.](https://github.com/mrdoob/three.js)
+ * [JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
+ * [Python Echarts Plotting Library](https://github.com/pyecharts/pyecharts)
+ * [Faster Recurrent Neural Network Language Modeling Toolkit with Noise Contrastive Estimation and Hierarchical Softmax](https://github.com/yandex/faster-rnnlm)
+ * [A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
+ * [Deep learning with dynamic computation graphs in TensorFlow](https://github.com/tensorflow/fold)
+ * [NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models. It is released by Tsung-Hsien (Shawn) Wen from Cambridge Dialogue Systems Group under Apache License 2.0.](https://github.com/shawnwun/NNDIAL)
  
 
 ## Public courses
@@ -133,5 +147,10 @@
  * [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
  * [Natural Language Processing in Action](https://github.com/totalgood/nlpia)
  * [Code for Stanford CS224D: deep learning for natural language understanding](https://github.com/bogatyy/cs224d/)
+ * [Companion code for the book "Mastering Social Media Mining with Python"](https://github.com/bonzanini/Book-SocialMediaMiningPython)
 
- 
+## 一些杂资料
+ * [北航毕设论文LaTeX模板](https://github.com/BHOSC/BUAAthesis)
+ * [美国大学备考资料 How to apply US colleges](https://github.com/hot13399/FLY_US)
+ * [Material Design icons by Google](https://github.com/google/material-design-icons)
+ * [Codes related to activities on AV including articles, hackathons and discussions.](https://github.com/aarshayj/Analytics_Vidhya)
