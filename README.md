@@ -1,6 +1,23 @@
-# Open-Source-Code
-主要是论文代码开源，以及一些公开的库
+# Open-Source-Code And Open Courses
+主要是论文代码开源，以及一些公开的库。同时也收录一些公开课程资料
 
+
+## Project related code
+  * [An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
+  * [This is the code for "Neural Network Voices" by Siraj Raval on Youtube](https://github.com/llSourcell/Neural_Network_Voices)
+  * [Face Recognition Project on MXNet](https://github.com/deepinsight/insightface)
+  * [Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset.](https://github.com/jtkim-kaist/VAD)
+  * [Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices](https://github.com/thtrieu/darkflow)
+  * [TensorForce Bitcoin Trading Bot](https://github.com/lefnire/tforce_btc_trader)
+  * [FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.](https://github.com/facebookresearch/Detectron)
+  * [An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy](https://github.com/NifTK/NiftyNet)
+  * [(Open Source) Computer Vision + Deep Learning + League of Legends](https://github.com/farzaa/DeepLeague)
+  * [CakeChat: Emotional Generative Dialog System](https://github.com/lukalabs/cakechat)
+  
+  
+## Simple implementations
+  * [Simple implementation of mean shift clustering in python](https://github.com/mattnedrich/MeanShift_py)
+  * [Chatbot in 200 lines of code using TensorLayer](https://github.com/tensorlayer/seq2seq-chatbot)
 
 ## 论文代码开源
   * [Sequence modeling benchmarks and temporal convolutional networks(TCN)](https://github.com/locuslab/TCN)
@@ -47,6 +64,13 @@
   * [RNN benchmarks of pytorch, tensorflow and theano](https://github.com/stefbraun/rnn_benchmarks)
   * [Deep Reinforcement Learning For Sequence to Sequence Models](https://github.com/yaserkl/RLSeq2Seq)
   * [Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.](https://github.com/hunkim/word-rnn-tensorflow)
+  * [Neural Nearest Neighbors Networks](https://github.com/visinf/n3net)
+  * [Domain Transfer Network (DTN)](https://github.com/yunjey/domain-transfer-network)
+  * [Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
+  * [PointCNN](https://github.com/yangyanli/PointCNN)
+  * [Countering Adversarial Image using Input Transformations.](https://github.com/facebookarchive/adversarial_image_defenses)
+  * [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
+  
   
 ## GAN
   * [Keras GAN](https://github.com/eriklindernoren/Keras-GAN)
@@ -66,9 +90,6 @@
   * [All About the GANs](https://github.com/hollobit/All-About-the-GAN)
   * [A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
   
-## Other resources
-  * [Papers with code. Sorted by stars. Updated weekly.](https://github.com/zziz/pwc)
-  
 ## Papers related
 
 ### Spatio Temporal Related
@@ -76,4 +97,22 @@
  
 ### Related resources
   * [Paper reading list in natural language processing, including dialogue system, text summarization, topic modeling, etc.](https://github.com/iwangjian/Paper-Reading)
+  * [Papers with code. Sorted by stars. Updated weekly.](https://github.com/zziz/pwc)
 
+## Toolkit or Framework
+ * [A Python Toolkit for Scalable Outlier Detection (Anomaly Detection)](https://github.com/yzhao062/pyod)
+ * [Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.](https://github.com/google/dopamine)
+ * [A fast, efficient universal vector embedding utility package.](https://github.com/plasticityai/magnitude)
+ * [A Toolkit for Industrial Topic Modeling](https://github.com/baidu/Familia)
+ * [Personae is a repo of implements and enviorment of Deep Reinforcement Learning & Supervised Learning.](https://github.com/Ceruleanacg/Personae)
+ * [Image augmentation library in Python for machine learning.](https://github.com/mdbloice/Augmentor)
+ * [Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.](https://github.com/orsinium/textdistance)
+ * [Word Embedding Visual Inspector](https://github.com/ronxin/wevi)
+ * [Bring data to life with SVG, Canvas and HTML](https://github.com/d3/d3)
+ 
+
+## Public courses
+ * [Seminars DeepBayes Summer School 2018](https://github.com/bayesgroup/deepbayes-2018)
+ * [中国科学技术大学计算机学院课程资源](https://github.com/ustcwpz/USTC-CS-Courses-Resource)
+ * [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
+ * [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
