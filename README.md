@@ -48,7 +48,7 @@
   * [Deep Reinforcement Learning For Sequence to Sequence Models](https://github.com/yaserkl/RLSeq2Seq)
   * [Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.](https://github.com/hunkim/word-rnn-tensorflow)
   
-### GAN
+## GAN
   * [Keras GAN](https://github.com/eriklindernoren/Keras-GAN)
   * [Generative Adversarial Networks](https://github.com/goodfeli/adversarial)
   * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/tkarras/progressive_growing_of_gans)
@@ -66,4 +66,5 @@
   * [All About the GANs](https://github.com/hollobit/All-About-the-GAN)
   * [A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
   
-  
+## other resources
+  * [Papers with code. Sorted by stars. Updated weekly.](https://github.com/zziz/pwc)
