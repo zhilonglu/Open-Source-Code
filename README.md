@@ -104,6 +104,7 @@
   * [Deep Learning Based Search and Recommendation System](https://github.com/meabhishekkumar/strata-conference-ca-2018)
   * [DNGR Deep Neural Networks for Learning Graph Representations](https://github.com/ShelsonCao/DNGR)
   * [Empirical Evaluation of Gated Recurrent Neural Networks](https://github.com/jych/librnn)
+  * [TGNet](https://github.com/LeeDoYup/TGNet-keras)
  
   
   
