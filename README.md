@@ -44,6 +44,7 @@
   * [Stock Prodiction by SVM & ARIMA](https://github.com/jerry81333/StockProdiction)
   * [LSTM and GRU in JAVA](https://github.com/lipiji/JRNN)
   * [Code Lib](https://github.com/wyh267/myCodeLib)
+  * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
   
 
 
