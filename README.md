@@ -25,7 +25,7 @@
   * [TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
   * [Real time face detection and recognition base  on opencv/tensorflow/mtcnn/facenet](https://github.com/BoragoCode/real_time_face_recognition)
   * [A project with topic model implementations](https://github.com/balikasg/topicModelling)
-  
+  * [Resources for deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
  
   
 ## Simple implementations
