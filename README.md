@@ -160,7 +160,7 @@
  * [DarkNet Convolutional Neural Networks](https://github.com/pjreddie/darknet)
  * [Official Python client for the MonkeyLearn API. Build and consume machine learning models for language processing from your Python apps.](https://github.com/monkeylearn/monkeylearn-python)
  * [Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).](https://github.com/Prinzhorn/skrollr)
- 
+ * [Automatic architecture search and hyperparameter optimization for PyTorch](https://github.com/dengdifan/Auto-PyTorch)
 
 ## Public courses
  * [Seminars DeepBayes Summer School 2018](https://github.com/bayesgroup/deepbayes-2018)
