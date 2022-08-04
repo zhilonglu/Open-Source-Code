@@ -178,3 +178,4 @@
  * [Codes related to activities on AV including articles, hackathons and discussions.](https://github.com/aarshayj/Analytics_Vidhya)
  * [LaTeX files for the Deep Learning book notation](https://github.com/goodfeli/dlbook_notation)
  * [VALSE](https://github.com/Atomwh/VALSE)
+ * [Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
