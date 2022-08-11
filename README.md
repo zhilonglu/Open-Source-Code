@@ -171,6 +171,9 @@
  * [Code for Stanford CS224D: deep learning for natural language understanding](https://github.com/bogatyy/cs224d/)
  * [Companion code for the book "Mastering Social Media Mining with Python"](https://github.com/bonzanini/Book-SocialMediaMiningPython)
 
+## Carbon neutral
+ * [Track and predict the energy consumption and carbon footprint of training deep learning models](https://github.com/lfwa/carbontracker)
+
 ## 一些杂资料
  * [北航毕设论文LaTeX模板](https://github.com/BHOSC/BUAAthesis)
  * [美国大学备考资料 How to apply US colleges](https://github.com/hot13399/FLY_US)
